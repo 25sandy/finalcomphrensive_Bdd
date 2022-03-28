@@ -1,0 +1,56 @@
+28-03-2022 09:07:47 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:07:49 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:07:49 INFO  ApartmentPrice:19 - click on newapartment option
+28-03-2022 09:07:50 INFO  ApartmentPrice:19 - select the apartment option 1 BHK 
+28-03-2022 09:07:52 INFO  ApartmentPrice:19 - the apartment price is?14 Lacs
+?2,692 per sq.ft.
+28-03-2022 09:07:54 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:07:55 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:07:55 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+28-03-2022 09:07:56 INFO  EmiCalculator:19 - enter the rate of interset  5%
+28-03-2022 09:07:57 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+28-03-2022 09:07:57 INFO  EmiCalculator:19 - Monthly emi for your amount is?52,934
+28-03-2022 09:07:58 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:08:00 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:08:00 INFO  LoanAggrement:19 - the loan aggrement page is opened
+28-03-2022 09:08:01 INFO  LoanAggrement:19 - the  page title matches with given input
+28-03-2022 09:08:03 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:08:04 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:08:05 INFO  Login:19 - Enter phone number and password
+28-03-2022 09:08:05 INFO  Login:19 - click on login using password
+28-03-2022 09:08:06 INFO  Login:19 - enter the password
+28-03-2022 09:08:06 INFO  Login:19 - click on continue
+28-03-2022 09:08:06 INFO  Login:19 - loggedin succesfully
+28-03-2022 09:08:07 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:08:09 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:08:10 INFO  EmiCalculator:19 - select the option our blogs
+28-03-2022 09:08:11 INFO  EmiCalculator:19 - print the cureent time and date
+28-03-2022 09:08:42 INFO  EmiCalculator:19 - cureent time isMon. Mar 28th, 2022 9:08:42 AM
+28-03-2022 09:08:44 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:08:48 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:08:48 INFO  hotelAddress:19 - click on the search icon
+28-03-2022 09:08:48 INFO  hotelAddress:19 - enter the place to fetch the address
+28-03-2022 09:08:57 INFO  hotelAddress:19 - address that you search is displayed
+28-03-2022 09:08:57 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+28-03-2022 09:08:59 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:09:01 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:09:01 INFO  menuBar:19 - click on the menu icon
+28-03-2022 09:09:02 INFO  menuBar:19 - select the post your property
+28-03-2022 09:09:23 INFO  menuBar:19 - the title is present in the page
+28-03-2022 09:09:23 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+28-03-2022 09:09:25 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:09:26 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:09:26 INFO  payrent:19 - print the payable option
+28-03-2022 09:09:27 INFO  payrent:19 - payable optionPay Rent and Fees with Credit Card
+28-03-2022 09:09:29 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:09:31 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:09:32 INFO  Login:19 - select the city to check the availability
+28-03-2022 09:09:35 INFO  Login:19 - enter the place you want to search
+28-03-2022 09:09:41 INFO  Login:19 - mark the checkbox office and coworking
+28-03-2022 09:09:41 INFO  Login:19 - the available property is437 matching properties in Electronic City
+28-03-2022 09:09:43 INFO  reusable:19 - Open NoBroker
+28-03-2022 09:09:45 INFO  reusable:19 - NoBroker as opened
+28-03-2022 09:09:45 INFO  Testimonials:19 - click on the testimonials option
+28-03-2022 09:09:48 INFO  Testimonials:19 - the testimonial is printedAbout Us
+NoBroker is a new home rental platform that makes it easier to find your new home without paying any brokerage. Use our verified listing to ensure you find your dream home by contacting the owners directly. In case you cannot find a property you are looking for, please post a requirement and we'll send you email notification with properties matching your requirements.

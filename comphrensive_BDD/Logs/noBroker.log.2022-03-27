@@ -1,0 +1,188 @@
+27-03-2022 17:18:45 INFO  Emicalculator:19 - Open NoBroker
+27-03-2022 17:18:47 INFO  Emicalculator:19 - NoBroker as opened
+27-03-2022 17:18:48 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+27-03-2022 17:18:48 INFO  EmiCalculator:19 - enter the rate of interset  5%
+27-03-2022 17:18:49 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+27-03-2022 17:50:11 INFO  reusable:19 - Open NoBroker
+27-03-2022 17:50:13 INFO  reusable:19 - NoBroker as opened
+27-03-2022 17:50:13 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+27-03-2022 17:54:13 INFO  reusable:19 - Open NoBroker
+27-03-2022 17:54:15 INFO  reusable:19 - NoBroker as opened
+27-03-2022 17:56:01 INFO  reusable:19 - Open NoBroker
+27-03-2022 17:56:03 INFO  reusable:19 - NoBroker as opened
+27-03-2022 17:57:40 INFO  reusable:19 - Open NoBroker
+27-03-2022 17:57:42 INFO  reusable:19 - NoBroker as opened
+27-03-2022 17:58:19 INFO  reusable:19 - Open NoBroker
+27-03-2022 17:58:21 INFO  reusable:19 - NoBroker as opened
+27-03-2022 17:59:15 INFO  reusable:19 - Open NoBroker
+27-03-2022 17:59:17 INFO  reusable:19 - NoBroker as opened
+27-03-2022 17:59:17 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+27-03-2022 18:00:37 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:00:39 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:00:39 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+27-03-2022 18:00:40 INFO  EmiCalculator:19 - enter the rate of interset  5%
+27-03-2022 18:00:40 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+27-03-2022 18:04:22 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:04:24 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:04:24 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+27-03-2022 18:04:25 INFO  EmiCalculator:19 - enter the rate of interset  5%
+27-03-2022 18:04:25 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+27-03-2022 18:04:25 INFO  EmiCalculator:19 - Monthly emi for your amount is₹52,934
+27-03-2022 18:07:35 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:07:37 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:07:38 INFO  Login:19 - Enter phone number and password
+27-03-2022 18:09:49 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:09:50 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:09:50 INFO  Login:19 - Enter phone number and password
+27-03-2022 18:09:51 INFO  Login:19 - click on login using password
+27-03-2022 18:10:08 INFO  Login:19 - enter the password
+27-03-2022 18:10:08 INFO  Login:19 - click on continue
+27-03-2022 18:10:09 INFO  Login:19 - loggedin succesfully
+27-03-2022 18:10:58 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:11:00 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:11:00 INFO  Login:19 - Enter phone number and password
+27-03-2022 18:11:01 INFO  Login:19 - click on login using password
+27-03-2022 18:11:01 INFO  Login:19 - enter the password
+27-03-2022 18:11:01 INFO  Login:19 - click on continue
+27-03-2022 18:11:01 INFO  Login:19 - loggedin succesfully
+27-03-2022 18:24:50 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:24:52 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:26:27 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:26:29 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:27:13 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:27:15 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:27:18 INFO  LoanAggrement:19 - the  page title matches with given input
+27-03-2022 18:38:20 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:38:22 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:38:50 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:38:52 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:39:35 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:39:38 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:39:38 INFO  ApartmentPrice:19 - click on newapartment option
+27-03-2022 18:39:39 INFO  ApartmentPrice:19 - select the apartment option 1 BHK 
+27-03-2022 18:39:40 INFO  ApartmentPrice:19 - the apartment price is₹14 Lacs
+₹2,692 per sq.ft.
+27-03-2022 18:52:33 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:52:35 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:52:35 INFO  hotelAddress:19 - click on the search icon
+27-03-2022 18:52:35 INFO  hotelAddress:19 - enter the place to fetch the address
+27-03-2022 18:53:42 INFO  reusable:19 - Open NoBroker
+27-03-2022 18:53:44 INFO  reusable:19 - NoBroker as opened
+27-03-2022 18:53:44 INFO  hotelAddress:19 - click on the search icon
+27-03-2022 18:53:44 INFO  hotelAddress:19 - enter the place to fetch the address
+27-03-2022 18:53:53 INFO  hotelAddress:19 - address that you search is displayed
+27-03-2022 18:53:53 INFO  hotelAddress:19 - address is15 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+27-03-2022 19:22:27 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:22:29 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:22:30 INFO  Login:19 - select the city to check the availability
+27-03-2022 19:22:33 INFO  Login:19 - enter the place you want to search
+27-03-2022 19:23:20 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:23:22 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:23:23 INFO  Login:19 - select the city to check the availability
+27-03-2022 19:23:26 INFO  Login:19 - enter the place you want to search
+27-03-2022 19:23:54 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:23:55 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:23:56 INFO  Login:19 - select the city to check the availability
+27-03-2022 19:23:59 INFO  Login:19 - enter the place you want to search
+27-03-2022 19:24:05 INFO  Login:19 - mark the checkbox office and coworking
+27-03-2022 19:24:06 INFO  Login:19 - the available property is437 matching properties in Electronic City
+27-03-2022 19:34:03 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:34:04 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:34:04 INFO  menuBar:19 - click on the menu icon
+27-03-2022 19:34:05 INFO  menuBar:19 - select the post your property
+27-03-2022 19:35:10 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:35:12 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:35:12 INFO  menuBar:19 - click on the menu icon
+27-03-2022 19:35:13 INFO  menuBar:19 - select the post your property
+27-03-2022 19:35:35 INFO  menuBar:19 - the title is present in the page
+27-03-2022 19:35:35 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+27-03-2022 19:51:23 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:51:25 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:52:01 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:52:03 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:52:38 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:52:40 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:52:41 INFO  EmiCalculator:19 - select the option our blogs
+27-03-2022 19:52:42 INFO  EmiCalculator:19 - print the cureent time and date
+27-03-2022 19:53:13 INFO  EmiCalculator:19 - cureent time isSun. Mar 27th, 2022 7:53:13 PM
+27-03-2022 19:53:39 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:53:41 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:53:41 INFO  Testimonials:19 - click on the testimonials option
+27-03-2022 19:54:47 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:54:48 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:54:48 INFO  Testimonials:19 - click on the testimonials option
+27-03-2022 19:58:18 INFO  reusable:19 - Open NoBroker
+27-03-2022 19:58:20 INFO  reusable:19 - NoBroker as opened
+27-03-2022 19:58:20 INFO  Testimonials:19 - click on the testimonials option
+27-03-2022 19:59:58 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:00:00 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:00:00 INFO  Testimonials:19 - click on the testimonials option
+27-03-2022 20:01:36 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:01:37 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:01:37 INFO  Testimonials:19 - click on the testimonials option
+27-03-2022 20:01:40 INFO  Testimonials:19 - the testimonial is printedAbout Us
+NoBroker is a new home rental platform that makes it easier to find your new home without paying any brokerage. Use our verified listing to ensure you find your dream home by contacting the owners directly. In case you cannot find a property you are looking for, please post a requirement and we'll send you email notification with properties matching your requirements.
+27-03-2022 20:11:09 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:11:11 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:11:11 INFO  payrent:19 - print the payable option
+27-03-2022 20:11:43 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:11:45 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:11:45 INFO  payrent:19 - print the payable option
+27-03-2022 20:11:47 INFO  payrent:19 - payable optionPay Rent and Fees with Credit Card
+27-03-2022 20:14:02 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:14:03 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:14:03 INFO  ApartmentPrice:19 - click on newapartment option
+27-03-2022 20:14:04 INFO  ApartmentPrice:19 - select the apartment option 1 BHK 
+27-03-2022 20:14:06 INFO  ApartmentPrice:19 - the apartment price is₹14 Lacs
+₹2,692 per sq.ft.
+27-03-2022 20:14:08 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:14:09 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:14:09 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+27-03-2022 20:14:10 INFO  EmiCalculator:19 - enter the rate of interset  5%
+27-03-2022 20:14:10 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+27-03-2022 20:14:10 INFO  EmiCalculator:19 - Monthly emi for your amount is₹52,934
+27-03-2022 20:14:12 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:14:13 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:14:13 INFO  LoanAggrement:19 - the loan aggrement page is opened
+27-03-2022 20:14:14 INFO  LoanAggrement:19 - the  page title matches with given input
+27-03-2022 20:14:16 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:14:17 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:14:17 INFO  Login:19 - Enter phone number and password
+27-03-2022 20:14:18 INFO  Login:19 - click on login using password
+27-03-2022 20:14:18 INFO  Login:19 - enter the password
+27-03-2022 20:14:18 INFO  Login:19 - click on continue
+27-03-2022 20:14:18 INFO  Login:19 - loggedin succesfully
+27-03-2022 20:14:20 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:14:21 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:14:22 INFO  EmiCalculator:19 - select the option our blogs
+27-03-2022 20:14:23 INFO  EmiCalculator:19 - print the cureent time and date
+27-03-2022 20:14:56 INFO  EmiCalculator:19 - cureent time isSun. Mar 27th, 2022 8:14:55 PM
+27-03-2022 20:14:57 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:14:59 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:14:59 INFO  hotelAddress:19 - click on the search icon
+27-03-2022 20:14:59 INFO  hotelAddress:19 - enter the place to fetch the address
+27-03-2022 20:15:08 INFO  hotelAddress:19 - address that you search is displayed
+27-03-2022 20:15:08 INFO  hotelAddress:19 - address is15 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+27-03-2022 20:15:10 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:15:12 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:15:12 INFO  menuBar:19 - click on the menu icon
+27-03-2022 20:15:13 INFO  menuBar:19 - select the post your property
+27-03-2022 20:15:34 INFO  menuBar:19 - the title is present in the page
+27-03-2022 20:15:34 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+27-03-2022 20:15:36 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:15:37 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:15:37 INFO  payrent:19 - print the payable option
+27-03-2022 20:15:39 INFO  payrent:19 - payable optionPay Rent and Fees with Credit Card
+27-03-2022 20:15:40 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:15:42 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:15:43 INFO  Login:19 - select the city to check the availability
+27-03-2022 20:15:45 INFO  Login:19 - enter the place you want to search
+27-03-2022 20:15:52 INFO  Login:19 - mark the checkbox office and coworking
+27-03-2022 20:15:52 INFO  Login:19 - the available property is437 matching properties in Electronic City
+27-03-2022 20:15:54 INFO  reusable:19 - Open NoBroker
+27-03-2022 20:15:56 INFO  reusable:19 - NoBroker as opened
+27-03-2022 20:15:56 INFO  Testimonials:19 - click on the testimonials option
+27-03-2022 20:15:59 INFO  Testimonials:19 - the testimonial is printedAbout Us
+NoBroker is a new home rental platform that makes it easier to find your new home without paying any brokerage. Use our verified listing to ensure you find your dream home by contacting the owners directly. In case you cannot find a property you are looking for, please post a requirement and we'll send you email notification with properties matching your requirements.
